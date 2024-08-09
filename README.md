@@ -1,7 +1,8 @@
 - 👋 Hi, I’m Rahul Dubey
 - 👀 I’m interested in Software Testing, Automation and Dev Ops
-- 🌱 I’m currently learning Selenium with Spring Boot
-- 💞️ I’m looking to collaborate on Selenium with Spring Boot
+- 🌱 I’m well versed with Selenium and Rest Assured
+- I am learning API Testing in more depth
+- 💞️ I’m looking to collaborate on API Testing Cypress and javascript
 - 📫 To connect https://www.linkedin.com/in/rahuldubey25/
 
 <!---
